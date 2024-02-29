@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HLM-explore/static/css/main.dec3d16f.css",
+    "main.js": "/HLM-explore/static/js/main.5dc99979.js",
+    "static/js/453.6d1e1cde.chunk.js": "/HLM-explore/static/js/453.6d1e1cde.chunk.js",
+    "index.html": "/HLM-explore/index.html",
+    "main.dec3d16f.css.map": "/HLM-explore/static/css/main.dec3d16f.css.map",
+    "main.5dc99979.js.map": "/HLM-explore/static/js/main.5dc99979.js.map",
+    "453.6d1e1cde.chunk.js.map": "/HLM-explore/static/js/453.6d1e1cde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec3d16f.css",
+    "static/js/main.5dc99979.js"
+  ]
+}
